@@ -7,3 +7,4 @@ Lab5: XML parser. <br />
 Lab6: work with polynoms. <br />
 Lab7: solving the systems of linear equasions using Gaussian elimination. <br />
 Lab8: work with binary and 2-3 trees. <br />
+Lab9: Lambda calculus parsing and evaluation. <br />
