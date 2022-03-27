@@ -8,3 +8,4 @@ Lab6: work with polynoms. <br />
 Lab7: solving the systems of linear equasions using Gaussian elimination. <br />
 Lab8: work with binary and 2-3 trees. <br />
 Lab9: Lambda calculus parsing and evaluation. <br />
+Lab10: Simple programmin language parsing and evaluation. <br />
