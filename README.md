@@ -5,3 +5,4 @@ Lab3: work with graphs. <br />
 Lab4: Turing Machine emulation. <br />
 Lab5: XML parser. <br />
 Lab6: work with polynoms. <br />
+Lab7: solving the systems of linear equasions using Gaussian elimination. <br />
